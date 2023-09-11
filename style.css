@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.logo img{
+    height: 50px;
+    width: 100px;
+}
+
+.lupa img{
+
+    width: 18px;
+    height: 18px;
+}
+
+
+.login{
+    width: 5vw;
+    height: 5vh;
+}
+.mundo img{
+    height: 16px;
+    width: 16px;
+}
+
+.tresr{
+    width: 20px;
+    height: 20px;
+}
+
+.user{
+    width: 30px;
+    height: 30px;
+}
+
+.alinear{
+    display: flex;
+    flex-direction: row;
+}
+
+.grupo3{
+    display: flex;
+    flex-direction: row;
+    font-size: 90%;
+}
+
+.barrab{
+    font-size: 90%;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+}
+.pontu{
+    display: flex;
+    flex-direction: row;
+}
