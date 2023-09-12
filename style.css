@@ -232,8 +232,10 @@ body {
 .show-more-btn:hover {
     text-decoration: underline;
 }
+    padding: 0;
+    margin: 0;
 
-
+}
 
 .navBar {
     width: 100%;
@@ -313,7 +315,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: -20px;
-    margin-right: 60px;
+    margin-right: 12gi0px;
     font-size: 90%;
 
 
@@ -345,6 +347,8 @@ body {
 .loginu {
     margin-top: -50px;
     margin-right: 25px;
+    display: flex;
+    justify-content: end;
 
 }
 
